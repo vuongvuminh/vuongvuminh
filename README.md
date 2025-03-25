@@ -8,9 +8,9 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 
 ## 📍 Contact
 
-- **Email**: [vuongvuminh@hotmail.com](mailto:vuongvuminh@hotmail.com)
-- **LinkedIn**: Vu Minh Vuong
-- **GitHub**: vuongvuminh
+- **Email/Slack**: [vuongvuminh@hotmail.com](mailto:vuongvuminh@hotmail.com)
+- **LinkedIn**: [Vu Minh Vuong](https://linkedin.com/in/vuongvuminh)
+- **GitHub**: [vuongvuminh](https://github.com/vuongvuminh)
 
 ## 🛠️ Technical Skills
 
