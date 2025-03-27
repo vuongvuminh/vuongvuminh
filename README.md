@@ -11,9 +11,9 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 |----------|--------|
 | **Languages** | C#, Python, Java, JavaScript, TypeScript, Rust, PHP, C/C++ |
 | **Frameworks** | .NET Core, React, Next.js, Spring Boot, FastAPI, ASP.NET, Angular |
-| **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite *(Advanced: Stored Procedures, Query Optimization)* |
+| **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite |
 | **DevOps & Cloud** | Docker, Redis, Azure, Jenkins, Kubernetes |
-| **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts) |
+| **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts), GraphQL API |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Jira, Trello |
 ## 💼 Professional Experience
 ### DeFi Lending Platform
@@ -21,7 +21,8 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 - Architected and developed a full-stack DeFi lending platform on Solana blockchain.
 - Implemented secure smart contracts for lending pools, borrowing, staking, and governance.
 - Created a modular React/Next.js frontend with comprehensive features for DeFi operations.
-- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Solana Web3.js
+- Designed a GraphQL API layer for efficient data fetching and real-time updates.
+- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, GraphQL, Solana Web3.js
 
 ### Lecturer (Programming & AI Research)
 *01/2024 - Present*
@@ -55,18 +56,20 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 - **Tech**: C Embedded, Arduino, RS232 Protocol
 
 ## 🌟 Key Projects
-### Solana Lending Pool DeFi Platform
+### Solana Lending Pool DeFi Platform (Freelance)
 *Full-stack decentralized finance platform enabling lending, borrowing, and staking on Solana blockchain.*
-- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Tailwind CSS
+- **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, GraphQL, Tailwind CSS
 - **Features**: 
   - Decentralized lending pools with dynamic interest rates
   - Collateralized borrowing with health factor monitoring
   - Token staking with rewards distribution
   - DAO governance for protocol parameters
   - Real-time price feeds and liquidation risk management
+  - GraphQL API for efficient data querying and subscriptions
 - **Architecture**:
   - Modular React components following atomic design principles
   - Context-based state management with reducers
+  - GraphQL for optimized data fetching and real-time updates
   - Internationalization support
   - Comprehensive analytics and risk assessment tools
 - **Impact**: Created a secure, user-friendly DeFi platform with comprehensive financial tools
