@@ -21,7 +21,6 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 - Architected and developed a full-stack DeFi lending platform on Solana blockchain.
 - Implemented secure smart contracts for lending pools, borrowing, staking, and governance.
 - Created a modular React/Next.js frontend with comprehensive features for DeFi operations.
-- Designed a GraphQL API layer for efficient data fetching and real-time updates.
 - **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, GraphQL, Solana Web3.js
 
 ### Lecturer (Programming & AI Research)
