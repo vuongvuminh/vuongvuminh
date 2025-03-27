@@ -16,7 +16,7 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 | **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts) |
 | **Tools** | Git, GitHub, VS Code, Visual Studio, Jira, Trello |
 ## 💼 Professional Experience
-### Blockchain Developer (Freelance) - DeFi Lending Platform
+### DeFi Lending Platform
 *09/2023 - Present*
 - Architected and developed a full-stack DeFi lending platform on Solana blockchain.
 - Implemented secure smart contracts for lending pools, borrowing, staking, and governance.
@@ -55,7 +55,7 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 - **Tech**: C Embedded, Arduino, RS232 Protocol
 
 ## 🌟 Key Projects
-### Solana Lending Pool DeFi Platform (Freelance)
+### Solana Lending Pool DeFi Platform
 *Full-stack decentralized finance platform enabling lending, borrowing, and staking on Solana blockchain.*
 - **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Tailwind CSS
 - **Features**: 
