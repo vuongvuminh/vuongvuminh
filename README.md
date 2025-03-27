@@ -10,7 +10,7 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 | Category | Skills |
 |----------|--------|
 | **Languages** | C#, Python, Java, JavaScript, TypeScript, Rust, PHP, C/C++ |
-| **Frameworks** | .NET Core, React, Next.js, Spring Boot, FastAPI, ASP.NET, Angular, Vue |
+| **Frameworks** | .NET Core, React, Next.js, Spring Boot, FastAPI, ASP.NET, Angular |
 | **Databases** | PostgreSQL, SQL Server, Oracle, MySQL, MongoDB, SQLite *(Advanced: Stored Procedures, Query Optimization)* |
 | **DevOps & Cloud** | Docker, Redis, Azure, Jenkins, Kubernetes |
 | **Blockchain** | Solana, Anchor Framework, Web3.js, Rust (Smart Contracts) |
@@ -23,33 +23,33 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
 - Created a modular React/Next.js frontend with comprehensive features for DeFi operations.
 - **Tech**: Rust, Anchor Framework, React, Next.js, TypeScript, Solana Web3.js
 
-### Lecturer (Programming & AI Research) - FPT Polytechnic College
+### Lecturer (Programming & AI Research)
 *01/2024 - Present*
 - Taught programming subjects (C, C#, PHP, SQL) and Agile methodologies.
 - Conducted AI research with large language models (CodeLlama, GPT-2).
 - **Tech**: C, C#, PHP, SQL, Python, HuggingFace
 
-### Senior Developer (ERP Systems) - E-Tech Corporation
+### Senior Developer (ERP Systems)
 *08/2023 - 12/2023*
 - Developed an accounting module on Odoo ERP, automating customer, invoice, and payment management.
 - **Tech**: C#, SQL Server, GitLab, Trello
 
-### Senior Developer (CRM Solutions) - OnPoint
+### Senior Developer (CRM Solutions)
 *03/2022 - 08/2023*
 - Built a CRM system with chatbot and ticket management for e-commerce.
 - **Tech**: Python (FastAPI, PyTorch), React, PostgreSQL, Docker, Redis, ClickUp
 
-### Senior Developer (Production Planning) - Far Eastern/TDS Vina
+### Senior Developer (Production Planning)
 *03/2019 - 05/2021*
 - Created a web tool to calculate material quantities and delivery schedules for Nike production factories.
 - **Tech**: Java, Spring Boot, Oracle, Jenkins
 
-### Team Leader (Software Projects) - FPT Software
+### Team Leader (Software Projects)
 *11/2017 - 03/2019*
 - Led development of ERP modules and a pharmacy tender platform for international clients.
 - **Tech**: C#, .NET Core, Angular, SQL Server, Azure
 
-### Junior Developer (Embedded Systems) - Japfa Comfeed Vietnam
+### Junior Developer (Embedded Systems)
 *03/2016 - 07/2017*
 - Worked on IoT projects including digital weight systems and RFID inventory management.
 - **Tech**: C Embedded, Arduino, RS232 Protocol
