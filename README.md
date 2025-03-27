@@ -102,4 +102,3 @@ I'm Vu Minh Vuong, a Full-stack Developer with over 8 years of experience in .NE
   - Java (2020)
   - PMP Prep (2019)
   - Agile-Scrum (2023)
-  - Solana Developer (2024)
